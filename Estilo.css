@@ -1,0 +1,26 @@
+
+#button{
+    margin-left: 37px;
+}
+
+#botones{
+    background-color: rgba(110, 50, 242, 0.821);
+	border-radius: 3px;
+	border: 1px;
+	color: white;
+	margin-top: 5px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 1rem;
+	font-family: 'Josefin Sans', sans-serif;
+	width:8%;
+	transition-property: color, background-color;
+	transition-duration: 1s;
+    padding:5px;
+}
+
+#botones:hover{
+	background-color:#EB2C4D;
+	color:white;
+}
+
